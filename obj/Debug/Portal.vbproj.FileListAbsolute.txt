@@ -1,0 +1,14 @@
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\bin\Debug\Portal.exe
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\bin\Debug\Portal.pdb
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\bin\Debug\Portal.xml
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.Form1.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.Resources.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.vbproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.exe
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.xml
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.pdb
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.PlayerEditor.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.SceneryDialog.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.Help.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.GameAbout.resources

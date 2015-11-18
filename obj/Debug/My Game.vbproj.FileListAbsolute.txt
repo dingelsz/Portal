@@ -1,0 +1,56 @@
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.exe
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.xml
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.pdb
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\bin\Debug\Portal.exe
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\bin\Debug\Portal.pdb
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\bin\Debug\Portal.xml
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.Help.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.Form1.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.GameAbout.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.Resources.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.PlayerEditor.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\Portal.SceneryDialog.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\Portal\Portal\obj\Debug\My Game.vbproj.GenerateResource.Cache
+F:\Portal\Portal\obj\Debug\Portal.exe
+F:\Portal\Portal\obj\Debug\Portal.xml
+F:\Portal\Portal\obj\Debug\Portal.pdb
+F:\Portal\Portal\bin\Debug\Portal.exe
+F:\Portal\Portal\bin\Debug\Portal.pdb
+F:\Portal\Portal\bin\Debug\Portal.xml
+F:\Portal\Portal\obj\Debug\ResolveAssemblyReference.cache
+F:\Portal\Portal\obj\Debug\Portal.Help.resources
+F:\Portal\Portal\obj\Debug\Portal.Form1.resources
+F:\Portal\Portal\obj\Debug\Portal.GameAbout.resources
+F:\Portal\Portal\obj\Debug\Portal.Resources.resources
+F:\Portal\Portal\obj\Debug\Portal.PlayerEditor.resources
+F:\Portal\Portal\obj\Debug\Portal.SceneryDialog.resources
+F:\Portal\Portal\obj\Debug\My Game.vbproj.GenerateResource.Cache
+E:\Portal\Portal\obj\Debug\Portal.exe
+E:\Portal\Portal\obj\Debug\Portal.xml
+E:\Portal\Portal\obj\Debug\Portal.pdb
+O:\Portal\Portal\obj\Debug\Portal.exe
+O:\Portal\Portal\obj\Debug\Portal.xml
+O:\Portal\Portal\obj\Debug\Portal.pdb
+O:\Portal\Portal\bin\Debug\Portal.exe
+O:\Portal\Portal\bin\Debug\Portal.pdb
+O:\Portal\Portal\bin\Debug\Portal.xml
+O:\Portal\Portal\obj\Debug\ResolveAssemblyReference.cache
+O:\Portal\Portal\obj\Debug\Portal.Help.resources
+O:\Portal\Portal\obj\Debug\Portal.Form1.resources
+O:\Portal\Portal\obj\Debug\Portal.GameAbout.resources
+O:\Portal\Portal\obj\Debug\Portal.Resources.resources
+O:\Portal\Portal\obj\Debug\Portal.PlayerEditor.resources
+O:\Portal\Portal\obj\Debug\Portal.SceneryDialog.resources
+O:\Portal\Portal\obj\Debug\My Game.vbproj.GenerateResource.Cache
+E:\Portal\Portal\bin\Debug\Portal.exe
+E:\Portal\Portal\bin\Debug\Portal.pdb
+E:\Portal\Portal\bin\Debug\Portal.xml
+E:\Portal\Portal\obj\Debug\ResolveAssemblyReference.cache
+E:\Portal\Portal\obj\Debug\Portal.Help.resources
+E:\Portal\Portal\obj\Debug\Portal.Form1.resources
+E:\Portal\Portal\obj\Debug\Portal.GameAbout.resources
+E:\Portal\Portal\obj\Debug\Portal.Resources.resources
+E:\Portal\Portal\obj\Debug\Portal.PlayerEditor.resources
+E:\Portal\Portal\obj\Debug\Portal.SceneryDialog.resources
+E:\Portal\Portal\obj\Debug\My Game.vbproj.GenerateResource.Cache
